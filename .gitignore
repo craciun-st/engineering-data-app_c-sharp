@@ -1,0 +1,42 @@
+HELP.md
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
+
+### macOS ###
+.DS_Store
+.Trashes
+.AppleDouble
+.LSOverride
+.fseventsd
+.Spotlight-V100
+
+### Windows ###
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+$RECYCLE.BIN/
+
+### Linux ###
+.directory
+.Trash-*
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
