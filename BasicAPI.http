@@ -1,0 +1,6 @@
+@BasicAPI_HostAddress = http://localhost:5050
+
+GET {{BasicAPI_HostAddress}}/v1/assessment
+Accept: application/json
+
+###
